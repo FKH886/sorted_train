@@ -1,1 +1,1 @@
-# sorted_train
+# Curriculum Learning of Transformers
